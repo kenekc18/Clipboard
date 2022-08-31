@@ -1,0 +1,49 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    font-family:'Bai Jamjuree', sans-serif;
+    font-size: 18px;
+    position: relative;
+}
+
+.logo-info{
+    max-width:150px;
+    min-height: 100px;
+}
+
+.logo-info img{
+    max-width:100%;
+}
+
+.computer-icon{
+    max-width:500px;
+    min-height: 300px;
+}
+
+.logo-info-01{
+    max-width:550px;
+    min-height: 300px;
+}
+
+.logo-info-01 img{
+    max-width: 100%;
+}
+
+.second-logo{
+    max-width:150px;
+    min-height: 100px;
+}
+
+.row.image{
+    max-width:150px;
+    min-height: 100px; 
+}
+
+@media(max-width:425px){
+    .mx-auto{
+
+    }
+}
